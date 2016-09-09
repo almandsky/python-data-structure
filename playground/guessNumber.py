@@ -1,3 +1,4 @@
+#! /usr/bin/env python3
 import random
 
 print('Please input the max number to guess')
